@@ -1,0 +1,16 @@
+All data:
+data-ASL---模拟器模拟的所有数据
+data-Company---公司提供的数据
+merge.m---切割数据代码
+
+小波.ipynb---小波变换
+时间序列滤波--其他滤波方式
+
+使用1128数据：
+1.LSTM模型---LSTM.ipynb
+2.LSTM-FCN模型---LSTM_FCN.ipynb
+3.时序数据聚类.ipynb---对分割后的窗口数据进行归一化聚类
+
+使用step25数据：
+3.transformer模型---transformer.py
+
