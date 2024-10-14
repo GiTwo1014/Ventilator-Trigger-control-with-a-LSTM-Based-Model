@@ -2,9 +2,6 @@
 In this work, a LSTM-based trigger model was trained to predict the inspiration or expiration events with flow rate. The optimized model is composed of two hidden LSTM layers.
 
 
-
-# Here is the translation of the provided text:
-
 ## All data:
 ```
 data-ASL --- All data simulated by the simulator
