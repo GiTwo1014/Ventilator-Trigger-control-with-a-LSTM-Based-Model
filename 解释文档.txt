@@ -11,6 +11,5 @@ merge.m---切割数据代码
 2.LSTM-FCN模型---LSTM_FCN.ipynb
 3.时序数据聚类.ipynb---对分割后的窗口数据进行归一化聚类
 
-使用step25数据：
+use step25数据：
 3.transformer模型---transformer.py
-
